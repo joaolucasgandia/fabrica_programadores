@@ -7,4 +7,4 @@ desconto = float(input("digite o desconto: "))
 preco_desconto = preco - preco * desconto / 100
 preco_final = preco_desconto - valor_desconto
 
-print(f"produto: {nome_produto} - Preço final: R${preco_final}")s
+print(f"produto: {nome_produto} - Preço final: R${preco_final}")
